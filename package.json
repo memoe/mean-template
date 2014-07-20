@@ -1,0 +1,17 @@
+{
+  "name": "myApp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+  	"express":"",
+  	"mongoose":"",
+  	"body-parser":"",
+  	"method-override":""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MZ",
+  "license": "ISC"
+}
